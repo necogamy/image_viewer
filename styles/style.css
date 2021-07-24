@@ -1,0 +1,56 @@
+html * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+	background-color: #000;
+}
+
+img {
+    width: 100px;
+    cursor: pointer;
+    transition: 1.5s;
+    filter: invert();
+}
+
+img:hover {
+    transition: 1s;
+    background-color: white;
+    opacity: 0.7;
+}
+
+.img1 {
+    background-image: url('../assets/img1.jpg');
+}
+.img2 {
+    background-image: url('../assets/img2.jpg');
+}
+.img3 {
+    background-image: url('../assets/img3.jpg');
+}
+.img4 {
+    background-image: url('../assets/img4.jpg');
+}
+.img5 {
+    background-image: url('../assets/img5.jpg');
+}
+.img6 {
+    background-image: url('../assets/img6.jpg');
+}
+.img7 {
+    background-image: url('../assets/img7.jpg');
+}
+
+.img1, .img2, .img3, .img4, .img5, .img6, .img7 {
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+	filter: saturate(150%) brightness(90%);
+}
+
+#changer {
+    display: flex;
+    justify-content: space-between;
+}
