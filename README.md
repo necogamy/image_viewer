@@ -1,4 +1,4 @@
-# <p style='text-align: center'>*Image Viewer with slide function*</p>
+# <p style="text-align: center">*Image Viewer with slide function*</p>
 *A cute image viewer maked with jquery*
 -
 
