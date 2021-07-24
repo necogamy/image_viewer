@@ -11,8 +11,6 @@
 ## **Overview**
 ![screenshot](overview.png)
 
-<br />
-
 ## **What I've used**
 * Jquery
 * CSS-3
