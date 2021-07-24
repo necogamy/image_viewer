@@ -1,6 +1,5 @@
-# <p align="center">**Image Viewer with slide function**</p>
-<p align="center">**A cute image viewer maked with jquery**</p>
--
+<h1 align="center">**Image Viewer with slide function**</h1>
+<h2 align="center">**A cute image viewer maked with jquery**</h2>
 
 <br />
 
