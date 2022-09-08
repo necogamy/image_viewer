@@ -1,7 +1,7 @@
 <h1 align="center">Image Viewer with slide function</h1>
 <h2 align="center">A cute image viewer maked with jquery</h2>
 <h3 align="center">
-  <a href="https://necogamy.github.io/image_viewer/">
+  <a href="https://nycolop.github.io/image_viewer/">
     Here you can see this project
   </a>
 </h3>
